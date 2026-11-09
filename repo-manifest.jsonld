@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/foundweekends/giter8/commit/1c2612983949cc5d60c1eae5f439dd448e73d1cc",
       "git:hexsha": "1c2612983949cc5d60c1eae5f439dd448e73d1cc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T21:59:13.872833+00:00"
     },
     {
       "@id": "https://repolex.ai/r/foundweekends/giter8/commit/6b22c1829a2d9ef87de9a8d0b2f498fcc0bf94ee",
